@@ -1,0 +1,1 @@
+[null,{"name":"timeRestrictedCommand","temp":"komut","event-type":"38","_id":"QTvrm","actions":[{"channel":"5","varName":"komut","message":"${tempVars(\"komut\")} Malesef bu komutu kullanmak için ${tempVars(\"vakit\")} kadar beklemen gerek","storage":"0","varName2":"","iffalse":"0","iffalseVal":"","name":"Send Message"}],"temp2":"vakit"}]
